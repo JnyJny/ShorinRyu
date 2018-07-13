@@ -42,15 +42,3 @@ R tettsui tskui, L mae geri, LFF zen kutsu dachi, L chudan tsuki
 
 Yoi
 
-kihon, basic
-godan, fifth
-MKT, magic karate turn
-RFF, right foot forward
-LFF, left foot forward
-ttetsui tsuki, hammer fist punch
-zen kutsu dachi, long stance
-gedan bari uke, low block
-chudan tsuki, middle punch
-geri, kick
-mae geri, front kick
-yoi, ready stance
